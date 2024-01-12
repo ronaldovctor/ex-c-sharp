@@ -1,0 +1,15 @@
+D:\Projetos\c-sharp\Arrays-Listas\bin\Debug\net6.0\Arrays-Listas.exe
+D:\Projetos\c-sharp\Arrays-Listas\bin\Debug\net6.0\Arrays-Listas.deps.json
+D:\Projetos\c-sharp\Arrays-Listas\bin\Debug\net6.0\Arrays-Listas.runtimeconfig.json
+D:\Projetos\c-sharp\Arrays-Listas\bin\Debug\net6.0\Arrays-Listas.dll
+D:\Projetos\c-sharp\Arrays-Listas\bin\Debug\net6.0\Arrays-Listas.pdb
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.csproj.AssemblyReference.cache
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.AssemblyInfoInputs.cache
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.AssemblyInfo.cs
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.csproj.CoreCompileInputs.cache
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.dll
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\refint\Arrays-Listas.dll
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.pdb
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\Arrays-Listas.genruntimeconfig.cache
+D:\Projetos\c-sharp\Arrays-Listas\obj\Debug\net6.0\ref\Arrays-Listas.dll
